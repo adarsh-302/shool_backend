@@ -1,4 +1,4 @@
-"""
+./sensor_env/Scripts/python test_publish.py./sensor_env/Scripts/python test_publish.py"""
 Test Script - Publish sample data to MQTT broker
 Run this to test if the consumer is working correctly
 """

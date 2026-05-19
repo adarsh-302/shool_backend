@@ -5,7 +5,7 @@ ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 VENV_DIR="$ROOT_DIR/sensor_env"
 
 choose_python() {
-    if command -v python >/dev/null 2>&1; then
+    ./sensor_env/Scripts/streamlit run dashboard.py    ./sensor_env/Scripts/streamlit run dashboard.py    ./sensor_env/Scripts/streamlit run dashboard.py    ./sensor_env/Scripts/streamlit run dashboard.py    ./sensor_env/Scripts/streamlit run dashboard.py    ./sensor_env/Scripts/streamlit run dashboard.py    ./sensor_env/Scripts/streamlit run dashboard.py    ./sensor_env/Scripts/streamlit run dashboard.py    ./sensor_env/Scripts/streamlit run dashboard.py    ./sensor_env/Scripts/streamlit run dashboard.py    if command -v python >/dev/null 2>&1; then
         echo "python"
         return
     fi
