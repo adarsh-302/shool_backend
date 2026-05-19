@@ -1,0 +1,75 @@
+INFO:__main__:Database initialized: sensor_data.db
+INFO:__main__:Connecting to mqtt.dehat.co:1883
+INFO:__main__:Connected to MQTT broker
+INFO:__main__:Subscribed to: devices/device001/data
+INFO:__main__:Message received on devices/device001/data: 
+{"Type":"MR","ID":"2002","DATE":"07/01/00","TIME":"23:56:34","SL_ID" :"1","RegAd":"1","Length":"15","D1":"4.09","D2":"5.12","D3":"0","D4":"5","D5":"26.3","D6":"0"}
+INFO:__main__:Inserted: Device=2002, Er=4.09
+INFO:__main__:Inserted: Device=2002, ErTc=5.12
+INFO:__main__:Inserted: Device=2002, Soil_Moisture=0.0%
+INFO:__main__:Inserted: Device=2002, Ec=5.0dS/m
+INFO:__main__:Inserted: Device=2002, Temperature=26.3°C
+INFO:__main__:Inserted: Device=2002, Ei=0.0
+INFO:__main__:Message received on devices/device001/data: 
+{"Type":"MR","ID":"2002","DATE":"07/01/00","TIME":"23:56:34","SL_ID" :"1","RegAd":"1","Length":"15","D1":"4.09","D2":"5.12","D3":"0","D4":"5","D5":"26.3","D6":"0"}
+INFO:__main__:Inserted: Device=2002, Er=4.09
+INFO:__main__:Inserted: Device=2002, ErTc=5.12
+INFO:__main__:Inserted: Device=2002, Soil_Moisture=0.0%
+INFO:__main__:Inserted: Device=2002, Ec=5.0dS/m
+INFO:__main__:Inserted: Device=2002, Temperature=26.3°C
+INFO:__main__:Inserted: Device=2002, Ei=0.0
+INFO:__main__:Message received on devices/device001/data: 
+{"Type":"MR","ID":"2002","DATE":"07/01/00","TIME":"23:56:34","SL_ID" :"1","RegAd":"1","Length":"15","D1":"4.09","D2":"5.12","D3":"0","D4":"5","D5":"26.3","D6":"0"}
+INFO:__main__:Inserted: Device=2002, Er=4.09
+INFO:__main__:Inserted: Device=2002, ErTc=5.12
+INFO:__main__:Inserted: Device=2002, Soil_Moisture=0.0%
+INFO:__main__:Inserted: Device=2002, Ec=5.0dS/m
+INFO:__main__:Inserted: Device=2002, Temperature=26.3°C
+INFO:__main__:Inserted: Device=2002, Ei=0.0
+INFO:__main__:Message received on devices/device001/data: 
+{"Type":"MR","ID":"2002","DATE":"07/01/00","TIME":"23:56:34","SL_ID" :"1","RegAd":"1","Length":"15","D1":"4.09","D2":"5.12","D3":"0","D4":"5","D5":"26.3","D6":"0"}
+INFO:__main__:Inserted: Device=2002, Er=4.09
+INFO:__main__:Inserted: Device=2002, ErTc=5.12
+INFO:__main__:Inserted: Device=2002, Soil_Moisture=0.0%
+INFO:__main__:Inserted: Device=2002, Ec=5.0dS/m
+INFO:__main__:Inserted: Device=2002, Temperature=26.3°C
+INFO:__main__:Inserted: Device=2002, Ei=0.0
+INFO:__main__:Message received on devices/device001/data: 
+{"Type":"MR","ID":"2002","DATE":"07/01/00","TIME":"23:56:34","SL_ID" :"1","RegAd":"1","Length":"15","D1":"4.09","D2":"5.12","D3":"0","D4":"5","D5":"26.3","D6":"0"}
+INFO:__main__:Inserted: Device=2002, Er=4.09
+INFO:__main__:Inserted: Device=2002, ErTc=5.12
+INFO:__main__:Inserted: Device=2002, Soil_Moisture=0.0%
+INFO:__main__:Inserted: Device=2002, Ec=5.0dS/m
+INFO:__main__:Inserted: Device=2002, Temperature=26.3°C
+INFO:__main__:Inserted: Device=2002, Ei=0.0
+INFO:__main__:Message received on devices/device001/data: 
+{"Type":"MR","ID":"2002","DATE":"07/01/00","TIME":"23:56:34","SL_ID" :"1","RegAd":"1","Length":"15","D1":"4.09","D2":"5.12","D3":"0","D4":"5","D5":"26.3","D6":"0"}
+INFO:__main__:Inserted: Device=2002, Er=4.09
+INFO:__main__:Inserted: Device=2002, ErTc=5.12
+INFO:__main__:Inserted: Device=2002, Soil_Moisture=0.0%
+INFO:__main__:Inserted: Device=2002, Ec=5.0dS/m
+INFO:__main__:Inserted: Device=2002, Temperature=26.3°C
+INFO:__main__:Inserted: Device=2002, Ei=0.0
+INFO:__main__:Message received on devices/device001/data: 
+{"Type":"MR","ID":"2002","DATE":"07/01/00","TIME":"23:56:34","SL_ID" :"1","RegAd":"1","Length":"15","D1":"4.09","D2":"5.12","D3":"0","D4":"5","D5":"26.3","D6":"0"}
+INFO:__main__:Inserted: Device=2002, Er=4.09
+INFO:__main__:Inserted: Device=2002, ErTc=5.12
+INFO:__main__:Inserted: Device=2002, Soil_Moisture=0.0%
+INFO:__main__:Inserted: Device=2002, Ec=5.0dS/m
+INFO:__main__:Inserted: Device=2002, Temperature=26.3°C
+INFO:__main__:Inserted: Device=2002, Ei=0.0
+INFO:__main__:Message received on devices/device001/data: 
+{"Type":"MR","ID":"2002","DATE":"07/01/00","TIME":"23:56:34","SL_ID" :"1","RegAd":"1","Length":"15","D1":"4.09","D2":"5.12","D3":"0","D4":"5","D5":"26.3","D6":"0"}
+INFO:__main__:Inserted: Device=2002, Er=4.09
+INFO:__main__:Inserted: Device=2002, ErTc=5.12
+INFO:__main__:Inserted: Device=2002, Soil_Moisture=0.0%
+INFO:__main__:Inserted: Device=2002, Ec=5.0dS/m
+INFO:__main__:Inserted: Device=2002, Temperature=26.3°C
+INFO:__main__:Inserted: Device=2002, Ei=0.0
+WARNING:__main__:Unexpected disconnection: 16
+WARNING:__main__:Unexpected disconnection: 16
+INFO:__main__:Connected to MQTT broker
+INFO:__main__:Subscribed to: devices/device001/data
+WARNING:__main__:Unexpected disconnection: 7
+INFO:__main__:Connected to MQTT broker
+INFO:__main__:Subscribed to: devices/device001/data
